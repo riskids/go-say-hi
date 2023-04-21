@@ -1,5 +1,5 @@
 package go_say_hi
 
 func SayHI() string {
-	return "HII V.1.0.0"
+	return "HI Update V.1.5.0"
 }
